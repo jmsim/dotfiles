@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Git",
+		"GitGutter",
+		"GitHubinator",
+		"Handlebars",
+		"JSCS-Formatter",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-rubocop"
+	]
+}
